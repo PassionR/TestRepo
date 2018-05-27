@@ -8,3 +8,6 @@ patiend name
 DOB
 Address
 Apt no, street name, city,state,zipcode
+Patient medical history
+Pateint allergies
+
